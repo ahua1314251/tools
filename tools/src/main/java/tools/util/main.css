@@ -1,0 +1,18 @@
+.label1 {
+    -fx-font-size: 12px;
+    -fx-text-fill: #333333;
+    -fx-background-color: white;
+    -fx-border-width: 1;
+    -fx-border-color: black;
+    -fx-border-bottom-style:dotted;
+}
+
+
+.label1_select {
+	-fx-font-size: 12px;
+    -fx-background-color: #2828FF;
+    -fx-text-fill: white;
+    -fx-border-bottom-style:dotted;
+    -fx-border-width: 1;
+    -fx-border-color: black;
+}
